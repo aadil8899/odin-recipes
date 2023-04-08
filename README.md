@@ -4,5 +4,8 @@ added h1 element to index.html
 -------------------------------------------
 created a directory "recipes" inside odin-recipes directory
 add an html file to the directory
-create a link in the index.html of odin-recipe for the page lasagna.html
+
+added different recipe html files to the recipes directory
+added necessary html
+create a link in the index.html of odin-recipe for the page respectively created inside recipes folder 
 -----------------------------------------------------
